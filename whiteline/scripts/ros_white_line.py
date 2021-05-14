@@ -8,8 +8,6 @@ from std_msgs.msg import Float64
 from cv_bridge import CvBridge
 import cv2
 import numpy as np
-import sys
-import math
 
 class WhiteLane():
 
